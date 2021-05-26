@@ -1,3 +1,4 @@
 Rencana Konten
 1. Router Static
+    * Pake Cicso Paket Tracer
 2. Router Dinamis
